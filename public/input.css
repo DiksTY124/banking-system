@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+  }
+
+  .btn-red {
+    @apply bg-red-500 text-white font-bold py-2 px-4 rounded;
+  }
+
+  .btn-black {
+    @apply bg-black text-white font-bold py-2 px-4 rounded;
+  }
+
+  h1{
+    @apply font-bold;
+  }
+
+  .btn-primary, .btn-red { @apply inline-block; }
+}

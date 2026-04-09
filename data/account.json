@@ -1,0 +1,174 @@
+{
+    "1": {
+        "id": 1,
+        "owner": "DiksTY",
+        "balance": 2000.9400000000005,
+        "transactions": [
+            {
+                "amount": 1,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-02-21T21:27:12+00:00"
+            },
+            {
+                "amount": 1,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-02-21T21:27:12+00:00"
+            },
+            {
+                "amount": 55,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-02-21T21:40:27+00:00"
+            },
+            {
+                "amount": 11,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-02-21T21:44:41+00:00"
+            },
+            {
+                "amount": 55,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-02-21T21:45:12+00:00"
+            },
+            {
+                "amount": 55,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-02-22T00:45:49+03:00"
+            },
+            {
+                "amount": 1000,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-02-27T09:13:09+03:00"
+            },
+            {
+                "amount": 3000,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-02-27T09:13:25+03:00"
+            },
+            {
+                "amount": 1000,
+                "type": "ПЕРЕВОД (ИСХОДЯЩИЙ)",
+                "accountId": 1,
+                "createdAt": "2026-02-27T10:04:22+03:00"
+            },
+            {
+                "amount": 300,
+                "type": "ПЕРЕВОД (ИСХОДЯЩИЙ)",
+                "accountId": 1,
+                "createdAt": "2026-02-27T10:07:51+03:00"
+            },
+            {
+                "amount": 1000,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-02-27T10:08:32+03:00"
+            },
+            {
+                "amount": 109,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-03-10T10:53:17+03:00"
+            },
+            {
+                "amount": 1000,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-03-10T10:53:24+03:00"
+            },
+            {
+                "amount": 110,
+                "type": "ПЕРЕВОД (ИСХОДЯЩИЙ)",
+                "accountId": 1,
+                "createdAt": "2026-03-10T10:53:48+03:00"
+            },
+            {
+                "amount": 1000,
+                "type": "ДЕПОЗИТ",
+                "accountId": 1,
+                "createdAt": "2026-03-30T11:36:29+03:00"
+            },
+            {
+                "amount": 500,
+                "type": "СНЯТИЕ",
+                "accountId": 1,
+                "createdAt": "2026-03-30T11:36:33+03:00"
+            },
+            {
+                "amount": 500,
+                "type": "ПЕРЕВОД (ИСХОДЯЩИЙ)",
+                "accountId": 1,
+                "createdAt": "2026-03-30T11:36:38+03:00"
+            },
+            {
+                "amount": 2000,
+                "type": "ПЕРЕВОД (ВХОДЯЩИЙ)",
+                "accountId": 1,
+                "createdAt": "2026-03-30T11:37:20+03:00"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "owner": "AlfStalin",
+        "balance": 41800,
+        "transactions": [
+            {
+                "amount": 11300,
+                "type": "ПЕРЕВОД (ВХОДЯЩИЙ)",
+                "accountId": 3,
+                "createdAt": "2026-02-27T10:09:58+03:00"
+            },
+            {
+                "amount": 20000,
+                "type": "ДЕПОЗИТ",
+                "accountId": 3,
+                "createdAt": "2026-02-27T10:10:22+03:00"
+            },
+            {
+                "amount": 500,
+                "type": "ПЕРЕВОД (ВХОДЯЩИЙ)",
+                "accountId": 3,
+                "createdAt": "2026-03-30T11:36:38+03:00"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "owner": "xyi",
+        "balance": 10000,
+        "transactions": [
+            {
+                "amount": 100,
+                "type": "ДЕПОЗИТ",
+                "accountId": 4,
+                "createdAt": "2026-02-27T10:19:25+03:00"
+            },
+            {
+                "amount": 100,
+                "type": "СНЯТИЕ",
+                "accountId": 4,
+                "createdAt": "2026-02-27T10:19:30+03:00"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "owner": "Алексей",
+        "balance": 8000,
+        "transactions": [
+            {
+                "amount": 2000,
+                "type": "ПЕРЕВОД (ИСХОДЯЩИЙ)",
+                "accountId": 5,
+                "createdAt": "2026-03-30T11:37:20+03:00"
+            }
+        ]
+    }
+}
